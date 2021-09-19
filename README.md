@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Build a CRUD App in React with Hooks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
