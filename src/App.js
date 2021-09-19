@@ -34,7 +34,7 @@ const App=()=>{
     }
     const delUser=(id)=>{
        setUsers(users.filter(
-           user=> user.id !=id
+           user=> user.id !==id
        ))
         setEditing(false);
         setCurrentUser(initialFormState);
